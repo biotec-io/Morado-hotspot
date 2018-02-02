@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "contributors": [
-    "Edgar Talledos <onimenotsuki@gmail.com> (https://medium.com/@edgar.talledos)"
+    "Edgar Talledos <onimenotsuki@gmail.com> (https://medium.com/@edgar.talledos)",
+    "Antonio Suárez <antoniosuarez1413@gmail.com> (https://medium.com/@antoniosuarez1413)"
   ],
   "keywords": [
     "gatsby", "react", "javascript", "es6", "graphql"
