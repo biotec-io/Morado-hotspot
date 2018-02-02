@@ -3,16 +3,19 @@
   "description": "Gatsby default starter",
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "keywords": [
-    "gatsby"
+  "contributors": [
+    "Edgar Talledos <onimenotsuki@gmail.com> (https://medium.com/@edgar.talledos)"
   ],
+  "keywords": [
+    "gatsby", "react", "javascript", "es6", "graphql"
+  ],
+  "private": true,
   "license": "MIT",
   "main": "n/a",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\""
   },
   "dependencies": {
     "gatsby": "^1.9.158",
