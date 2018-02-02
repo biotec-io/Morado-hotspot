@@ -7,7 +7,11 @@
     "Edgar Talledos <onimenotsuki@gmail.com> (https://medium.com/@edgar.talledos)"
   ],
   "keywords": [
-    "gatsby", "react", "javascript", "es6", "graphql"
+    "gatsby",
+    "react",
+    "javascript",
+    "es6",
+    "graphql"
   ],
   "private": true,
   "license": "MIT",
