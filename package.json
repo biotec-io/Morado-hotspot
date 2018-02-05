@@ -5,7 +5,8 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "contributors": [
     "Edgar Talledos <onimenotsuki@gmail.com> (https://medium.com/@edgar.talledos)",
-    "Antonio Suárez <antoniosuarez1413@gmail.com> (https://medium.com/@antoniosuarez1413)"
+    "Antonio Suárez <antoniosuarez1413@gmail.com> (https://medium.com/@antoniosuarez1413)",
+    "Israel Moreno <israelmorenoa@outlook.es> (https://medium.com/@israelmoreno)"
   ],
   "keywords": [
     "gatsby",
@@ -29,17 +30,14 @@
     "react-helmet": "^5.2.0"
   },
   "devDependencies": {
-    "autoprefixer": "^7.2.5",
     "eslint": "^4.16.0",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.6.1",
-    "gatsby-plugin-postcss-sass": "^1.0.16",
     "prettier": "^1.10.2",
     "react-test-renderer": "^16.2.0",
     "regenerator-runtime": "^0.11.1",
-    "sass-lint": "^1.12.1",
-    "uikit": "^3.0.0-beta.39"
+    "sass-lint": "^1.12.1"
   }
 }
